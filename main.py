@@ -1,5 +1,21 @@
-line 1
-line 2
-main.py
-author:Alex Zuo
-purpose:Test Codes
+//filename:  main.py
+//created on:  Sun 07 Aug 2022 02:36:48 PM CST
+//Author:Aex Zuo
+//Linux Distro: Ubuntu 20.04.3 LTS \n \l
+
+
+	#include <stdio.h>
+	#include <stdlib.h>
+	int main(int argn, char* argv)
+	{							 
+		 a =  1;
+		 a =  2;
+		 a =  3;
+		 a =  4;
+		 a =  5;
+		 a =  6;
+		 a =  7;
+		 a =  8;
+		 a =  9;
+		 a =  10;
+	}
