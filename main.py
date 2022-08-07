@@ -1,3 +1,3 @@
 a = 1
-b = 22
+b = main //set b as main string
 c = a + b
